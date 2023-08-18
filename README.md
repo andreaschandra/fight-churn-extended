@@ -1,9 +1,12 @@
 
 
-# fight-churn
+# Fight Churn Extended
 
 
 <a name="top"/>
+
+I created an extended version of <https://github.com/carl24k/fight-churn>
+The objective is to provide a deeper experimentation and explaination of code that used in the book.
 
 ## **_What's New_ : ChurnSim White Paper & Advanced Simulation (August 2023)**
 
